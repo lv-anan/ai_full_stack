@@ -100,7 +100,7 @@ rm -rf ~/miniconda3/miniconda.sh
 安装完成后，建议新建一个 Python 虚拟环境，命名为 `deepseek`。
 
 ```shell
-conda create -n deepseek python=3.13
+conda create -n ai_full_stack python=3.13
 
 # 激活环境
 conda activate ai_full_stack 
